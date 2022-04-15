@@ -2,3 +2,6 @@ lemon, yellow
 grapes, green
 orange, orange
 Spota, Brown
+strawberry, red
+mulberry, blue
+
