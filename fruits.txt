@@ -5,3 +5,5 @@ Spota, Brown
 strawberry, red
 mulberry, blue
 Banana, yellow
+Apples, red
+Guava, green
